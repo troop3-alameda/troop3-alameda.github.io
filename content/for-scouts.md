@@ -6,5 +6,5 @@ This page has resources and information for members of Troop 3. From schedules t
 
 ## Handy Links
 
-* [Merit Badges](http://www.boyscouttrail.com/boy-scouts/bsa-merit-badges.asp)
-* [Rank Advancements](http://www.boyscouttrail.com/advancements.asp)
+* [Merit Badges](https://www.scouting.org/skills/merit-badges/)
+* [Rank Advancements](https://www.scouting.org/programs/scouts-bsa/advancement-and-awards/)

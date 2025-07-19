@@ -3,6 +3,11 @@ languageCode = 'en-us'
 title = 'Boy Scouts of America, Troop 3'
 theme = 'troop3'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   description = "Member of the Golden Gate Area Council of BSA"
   mainSections = ["posts"]
