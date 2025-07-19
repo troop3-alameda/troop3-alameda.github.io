@@ -2,7 +2,7 @@
 title: "Welcome to Troop 3"
 ---
 
-Troop 3 in Alameda is a friendly, child-led troop designed to support active kids. Our program emphasizes character building, leadership and life skills, community service and outdoor education while balancing school, sports and other activities.
+Troop 3 in Alameda is a friendly, child-led troop designed to support active kids. Our program emphasizes character building, leadership and life skills, community service and outdoor education while balancing school, sports, and other activities.
 
 Our troop takes on many exciting adventures through the year including multiple camping trips around the Bay Area, backpacking through Pt. Reyes, and rock wall climbing.
 

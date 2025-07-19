@@ -17,6 +17,6 @@ Joining Scouts has never been easier! To register with Troop 3 visit scouting.or
 
 As a new Scout you will need a few key pieces of information. Below are some helpful links to get you started on your journey.
 
-* [New Scout Checklist](https://bsa-troop3.org/wp-content/uploads/2020/12/Troop-3-New-Scout-Checklist_November-2020.pdf)
+* [New Scout Checklist](/new-scout-checklist)
 * [Uniform Checklist](https://filestore.scouting.org/filestore/pdf/510-784(24)-Scouts-Uniform-Inspection-Sheet.pdf)
 * [Required Medical Forms](https://filestore.scouting.org/filestore/HealthSafety/pdf/680-001_ABC.pdf)
