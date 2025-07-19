@@ -17,8 +17,7 @@ Requirements include earning at least 21&nbsp;merit badges&nbsp;and demonstratin
 </thead>
 <tbody>
 <tr>
-	<td></td>
-	<td><strong>2025</strong></td>
+	<td colspan="2" style="text-align:center; vertical-align:middle;"><strong>2025</strong></td>
 </tr>
 <tr>
 	<td>Dylan Leung</td>
@@ -29,28 +28,25 @@ Requirements include earning at least 21&nbsp;merit badges&nbsp;and demonstratin
 	<td>April 23, 2025</td>
 </tr>
 <tr>
-	<td></td>
-	<td><strong>2022</strong></td>
+	<td colspan="2" style="text-align:center; vertical-align:middle;"><strong>2022</strong></td>
 </tr>
 <tr>
 	<td>Tom Elliot</td>
-	<td>July 1, 2022</td>
+	<td>July 01, 2022</td>
 </tr>
 <tr>
-	<td></td>
-	<td><strong>2021</strong></td>
+	<td colspan="2" style="text-align:center; vertical-align:middle;"><strong>2021</strong></td>
 </tr>
 <tr>
 	<td>Devin Kaneshiro</td>
 	<td>November 22, 2021</td>
 </tr>
 <tr>
-	<td></td>
-	<td><strong>2019</strong></td>
+	<td colspan="6" style="text-align:center; vertical-align:middle;"><strong>2019</strong></td>
 </tr>
 <tr>
 	<td>Jackson Elliot</td>
-	<td>December 5, 2019</td>
+	<td>December 05, 2019</td>
 </tr>
 <tr>
 	<td>Ranen Chang</td>
@@ -58,23 +54,22 @@ Requirements include earning at least 21&nbsp;merit badges&nbsp;and demonstratin
 </tr>
 <tr>
 	<td>James Zou</td>
-	<td>Sept 24, 2019</td>
+	<td>September 24, 2019</td>
 </tr>
 <tr>
 	<td>Jacob Anderson</td>
-	<td>August 7, 2019</td>
+	<td>August 07, 2019</td>
 </tr>
 <tr>
 	<td>Mitchell Fong</td>
-	<td>August 7, 2019</td>
+	<td>August 07, 2019</td>
 </tr>
 <tr>
 	<td>Alex Robles</td>
 	<td>July 10, 2019</td>
 </tr>
 <tr>
-	<td></td>
-	<td><strong>2018</strong></td>
+	<td colspan="3" style="text-align:center; vertical-align:middle;"><strong>2018</strong></td>
 </tr>
 <tr>
 	<td>Ben Esposito</td>
@@ -89,248 +84,234 @@ Requirements include earning at least 21&nbsp;merit badges&nbsp;and demonstratin
 	<td>April 18, 2018</td>
 </tr>
 <tr>
-	<td></td>
-	<td><strong>2017</strong></td>
+	<td colspan="5" style="text-align:center; vertical-align:middle;"><strong>2017</strong></td>
 </tr>
 <tr>
 	<td>Ethan Chang</td>
-	<td>13-Dec-17</td>
+	<td>December 13, 2017</td>
 </tr>
 <tr>
 	<td>Andrew Fong</td>
-	<td>28-Sep-17</td>
+	<td>September 28, 2017</td>
 </tr>
 <tr>
 	<td>Alex Orla-Bukowski</td>
-	<td>20-Sep-17</td>
+	<td>September 20, 2017</td>
 </tr>
 <tr>
 	<td>Stephen Sum</td>
-	<td>23-Aug-17</td>
+	<td>August 23, 2017</td>
 </tr>
 <tr>
 	<td>Spencer Fong</td>
-	<td>25-Jan-17</td>
+	<td>January 25, 2017</td>
 </tr>
 <tr>
-	<td></td>
-	<td><strong>2016</strong></td>
+	<td colspan="2" style="text-align:center; vertical-align:middle;"><strong>2016</strong></td>
 </tr>
 <tr>
 	<td>Cody Lim</td>
-	<td>28-Dec-16</td>
+	<td>December 28, 2016</td>
 </tr>
 <tr>
 	<td>Matthew Hui</td>
-	<td>18-Nov-16</td>
+	<td>November 18, 2016</td>
 </tr>
 <tr>
 	<td>Joshua Hui</td>
-	<td>1-Jun-16</td>
+	<td>June 01, 2016</td>
 </tr>
 <tr>
-	<td></td>
-	<td><strong>2015</strong></td>
+	<td colspan="2" style="text-align:center; vertical-align:middle;"><strong>2015</strong></td>
 </tr>
 <tr>
 	<td>Benjamin Lai </td>
-	<td>23-Sep-15</td>
+	<td>September 23, 2015</td>
 </tr>
 <tr>
 	<td>Adam Orla-Bukowski</td>
-	<td>23-Sep-15</td>
+	<td>September 23, 2015</td>
 </tr>
 <tr>
 	<td>Ryan J. Wlad</td>
-	<td>17-Aug-15</td>
+	<td>August 17, 2015</td>
 </tr>
 <tr>
-	<td></td>
-	<td><strong>2014</strong></td>
+	<td colspan="2" style="text-align:center; vertical-align:middle;"><strong>2014</strong></td>
 </tr>
 <tr>
 	<td>Jonathan Xu</td>
-	<td>2-Apr-14</td>
+	<td>April 02, 2014</td>
 </tr>
 <tr>
 	<td>Kyle  C. Russell</td>
-	<td>17-Apr-14</td>
+	<td>April 17, 2014</td>
 </tr>
 <tr>
 	<td>Joshua Dong</td>
-	<td>4-May-14</td>
+	<td>May 04, 2014</td>
 </tr>
 <tr>
 	<td>Bret Greene</td>
-	<td>29-Oct-14</td>
+	<td>October 29, 2014</td>
 </tr>
 <tr>
-	<td></td>
-	<td><strong>2011</strong></td>
+	<td colspan="2" style="text-align:center; vertical-align:middle;"><strong>2011</strong></td>
 </tr>
 <tr>
 	<td>Ryan C. Fong</td>
-	<td>20-Jan-11</td>
+	<td>January 20, 2011</td>
 </tr>
 <tr>
 	<td>Eric Adams</td>
-	<td>27-Jan-11</td>
+	<td>January 27, 2011</td>
 </tr>
 <tr>
 	<td>Michael Gee</td>
-	<td>6-Apr-11</td>
+	<td>April 06, 2011</td>
 </tr>
 <tr>
 	<td>Corey Spray</td>
-	<td>31-Aug-11</td>
+	<td>August 31, 2011</td>
 </tr>
 <tr>
 	<td>Evan Lee</td>
-	<td>17-Oct-11</td>
+	<td>October 17, 2011</td>
 </tr>
 <tr>
-	<td></td>
-	<td><strong>2010</strong></td>
+	<td colspan="2" style="text-align:center; vertical-align:middle;"><strong>2010</strong></td>
 </tr>
 <tr>
 	<td>Martin Wilson</td>
-	<td>27-May-10</td>
+	<td>May 27, 2010</td>
 </tr>
 <tr>
 	<td>Jason Lau</td>
-	<td>4-Aug-10</td>
+	<td>August 04, 2010</td>
 </tr>
 <tr>
 	<td>Ryan David Fong</td>
-	<td>18-Nov-10</td>
+	<td>November 18, 2010</td>
 </tr>
 <tr>
-	<td></td>
-	<td><strong>2009</strong></td>
+	<td colspan="2" style="text-align:center; vertical-align:middle;"><strong>2009</strong></td>
 </tr>
 <tr>
 	<td>Ryan Lim</td>
-	<td>22-Apr-09</td>
+	<td>April 22, 2009</td>
 </tr>
 <tr>
 	<td>Colin Russell</td>
-	<td>8-Oct-09</td>
+	<td>October 08, 2009</td>
 </tr>
 <tr>
-	<td>  </td>
-	<td>  <strong>2008</strong></td>
+	<td colspan="2" style="text-align:center; vertical-align:middle;"><strong>2008</strong></td>
 </tr>
 <tr>
 	<td>Carson Cheung</td>
-	<td>4-Feb-08</td>
+	<td>February 04, 2008</td>
 </tr>
 <tr>
 	<td>Alex Jung</td>
-	<td>6-Feb-08</td>
+	<td>February 06, 2008</td>
 </tr>
 <tr>
 	<td>Benjamin Ulrey</td>
-	<td>11-Feb-08</td>
+	<td>February 11, 2008</td>
 </tr>
 <tr>
 	<td>Zachary Hinton</td>
-	<td>30-Apr-08</td>
+	<td>April 30, 2008</td>
 </tr>
 <tr>
 	<td>Jeffrey Roeder</td>
-	<td>19-May-08</td>
+	<td>May 19, 2008</td>
 </tr>
 <tr>
-	<td></td>
-	<td><strong>  2007</strong></td>
+	<td colspan="2" style="text-align:center; vertical-align:middle;"><strong>2007</strong></td>
 </tr>
 <tr>
 	<td>Jonathan Lau</td>
-	<td>29-Jan-07</td>
+	<td>January 29, 2007</td>
 </tr>
 <tr>
 	<td>Daniel Roberts</td>
-	<td>3-May-07</td>
+	<td>May 03, 2007</td>
 </tr>
 <tr>
 	<td>Jonathan Lin</td>
-	<td>20-Jun-07</td>
+	<td>June 20, 2007</td>
 </tr>
 <tr>
 	<td>Austin Oducayen</td>
-	<td>13-Dec-07</td>
+	<td>December 13, 2007</td>
 </tr>
 <tr>
-	<td></td>
-	<td><strong>2006</strong></td>
+	<td colspan="2" style="text-align:center; vertical-align:middle;"><strong>2006</strong></td>
 </tr>
 <tr>
 	<td>Joseph Gay</td>
-	<td>21-Mar-06</td>
+	<td>March 21, 2006</td>
 </tr>
 <tr>
 	<td>Kurtis Fong</td>
-	<td>2-May-06</td>
+	<td>May 02, 2006</td>
 </tr>
 <tr>
 	<td>Christopher Ng</td>
-	<td>2-May-06</td>
+	<td>May 02, 2006</td>
 </tr>
 <tr>
-	<td>  </td>
-	<td> <strong> 2005</strong></td>
+	<td colspan="2" style="text-align:center; vertical-align:middle;"><strong>2005</strong></td>
 </tr>
 <tr>
 	<td>Cameron Chan</td>
-	<td>15-Mar-05</td>
+	<td>March 15, 2005</td>
 </tr>
 <tr>
 	<td>Scott Roeder</td>
-	<td>15-Mar-05</td>
+	<td>March 15, 2005</td>
 </tr>
 <tr>
 	<td>Eddie Lee</td>
-	<td>22-Mar-05</td>
+	<td>March 22, 2005</td>
 </tr>
 <tr>
 	<td>Edwen Lee</td>
-	<td>22-Mar-05</td>
+	<td>March 22, 2005</td>
 </tr>
 <tr>
-	<td></td>
-	<td>  <strong>2004</strong></td>
+	<td colspan="2" style="text-align:center; vertical-align:middle;"><strong>2004</strong></td>
 </tr>
 <tr>
 	<td>Louis Pappas</td>
-	<td>13-Jan-04</td>
+	<td>January 13, 2004</td>
 </tr>
 <tr>
 	<td>Anthony Adamiuk</td>
-	<td>13-Jul-04</td>
+	<td>July 13, 2004</td>
 </tr>
 <tr>
 	<td>Nathaniel Penn</td>
-	<td>21-Sep-04</td>
+	<td>September 21, 2004</td>
 </tr>
 <tr>
-	<td>            </td>
-	<td>  <strong> 2003</strong></td>
+	<td colspan="2" style="text-align:center; vertical-align:middle;"><strong>2003</strong></td>
 </tr>
 <tr>
 	<td>Samir Khatri</td>
-	<td>11-Feb-03</td>
+	<td>February 11, 2003</td>
 </tr>
 <tr>
 	<td>Matthew Fong</td>
-	<td>1-Apr-03</td>
+	<td>April 01, 2003</td>
 </tr>
 <tr>
-	<td></td>
-	<td>  <strong>2002</strong></td>
+	<td colspan="2" style="text-align:center; vertical-align:middle;"><strong>2002</strong></td>
 </tr>
 <tr>
 	<td>Stephen Zimmerman</td>
-	<td>19-Nov-02</td>
+	<td>November 19, 2002</td>
 </tr>
 </tbody>
 </table>
