@@ -2,11 +2,11 @@
 title: "Eagle's Nest"
 ---
 
-<h6 style="color: #3366ff;">The following members of Troop 3 have been awarded the rank of Eagle Scout, the highest rank attainable in Scouts BSA<strong>. &nbsp;The title of Eagle Scout is held for life, thus giving rise to the phrase "Once an Eagle, always an Eagle".</strong></h6>
+The following members of Troop 3 have been awarded the rank of Eagle Scout; the highest rank attainable in Scouts BSA<strong>. &nbsp;The title of Eagle Scout is held for life, thus giving rise to the phrase "Once an Eagle, always an Eagle".</strong>
 
-<h6 style="color: #3366ff; font-size: medium;">Requirements include earning at least 21&nbsp;merit badges&nbsp;and demonstrating&nbsp;Scout Spirit&nbsp;through the Boy Scout Oath and Law, service, and leadership. This includes an extensive service project that the Scout plans, organizes, leads, and manages. Eagle Scouts are presented with a&nbsp;medal&nbsp;and a&nbsp;badge&nbsp;that visibly recognizes the accomplishments of the Scout. Additional recognition can be earned through Eagle Palms, awarded for completing additional tenure, leadership, and merit badge requirements.</h6>
+Requirements include earning at least 21&nbsp;merit badges&nbsp;and demonstrating&nbsp;Scout Spirit&nbsp;through the Scout Oath and Law, service, and leadership. This includes an extensive service project that the Scout plans, organizes, leads, and manages. Eagle Scouts are presented with a&nbsp;medal&nbsp;and a&nbsp;badge&nbsp;that visibly recognizes the accomplishments of the Scout. Additional recognition can be earned through Eagle Palms, awarded for completing additional tenure, leadership, and merit badge requirements.
 
-<h6 style="color: #ff0000; font-size: large;">The list of the sixty Alameda Troop 3 Eagle Scouts is given below</h6>
+ The list of the sixty Alameda Troop 3 Eagle Scouts is given below.
 
 <table>
 <thead>
@@ -74,10 +74,6 @@ title: "Eagle's Nest"
 </tr>
 <tr>
 	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td></td>
 	<td><strong>2018</strong></td>
 </tr>
 <tr>
@@ -91,10 +87,6 @@ title: "Eagle's Nest"
 <tr>
 	<td>Anthony Brewer</td>
 	<td>April 18, 2018</td>
-</tr>
-<tr>
-	<td></td>
-	<td></td>
 </tr>
 <tr>
 	<td></td>
@@ -122,10 +114,6 @@ title: "Eagle's Nest"
 </tr>
 <tr>
 	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td></td>
 	<td><strong>2016</strong></td>
 </tr>
 <tr>
@@ -142,10 +130,6 @@ title: "Eagle's Nest"
 </tr>
 <tr>
 	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td></td>
 	<td><strong>2015</strong></td>
 </tr>
 <tr>
@@ -159,10 +143,6 @@ title: "Eagle's Nest"
 <tr>
 	<td>Ryan J. Wlad</td>
 	<td>17-Aug-15</td>
-</tr>
-<tr>
-	<td></td>
-	<td></td>
 </tr>
 <tr>
 	<td></td>
@@ -183,10 +163,6 @@ title: "Eagle's Nest"
 <tr>
 	<td>Bret Greene</td>
 	<td>29-Oct-14</td>
-</tr>
-<tr>
-	<td></td>
-	<td></td>
 </tr>
 <tr>
 	<td></td>
@@ -213,10 +189,6 @@ title: "Eagle's Nest"
 	<td>17-Oct-11</td>
 </tr>
 <tr>
-	<td>  </td>
-	<td>  </td>
-</tr>
-<tr>
 	<td></td>
 	<td><strong>2010</strong></td>
 </tr>
@@ -234,10 +206,6 @@ title: "Eagle's Nest"
 </tr>
 <tr>
 	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td></td>
 	<td><strong>2009</strong></td>
 </tr>
 <tr>
@@ -247,10 +215,6 @@ title: "Eagle's Nest"
 <tr>
 	<td>Colin Russell</td>
 	<td>8-Oct-09</td>
-</tr>
-<tr>
-	<td></td>
-	<td></td>
 </tr>
 <tr>
 	<td>  </td>
@@ -278,10 +242,6 @@ title: "Eagle's Nest"
 </tr>
 <tr>
 	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td></td>
 	<td><strong>  2007</strong></td>
 </tr>
 <tr>
@@ -302,10 +262,6 @@ title: "Eagle's Nest"
 </tr>
 <tr>
 	<td></td>
-	<td></td>
-</tr>
-<tr>
-	<td></td>
 	<td><strong>2006</strong></td>
 </tr>
 <tr>
@@ -319,10 +275,6 @@ title: "Eagle's Nest"
 <tr>
 	<td>Christopher Ng</td>
 	<td>2-May-06</td>
-</tr>
-<tr>
-	<td></td>
-	<td></td>
 </tr>
 <tr>
 	<td>  </td>
@@ -345,10 +297,6 @@ title: "Eagle's Nest"
 	<td>22-Mar-05</td>
 </tr>
 <tr>
-	<td>  </td>
-	<td></td>
-</tr>
-<tr>
 	<td></td>
 	<td>  <strong>2004</strong></td>
 </tr>
@@ -365,10 +313,6 @@ title: "Eagle's Nest"
 	<td>21-Sep-04</td>
 </tr>
 <tr>
-	<td></td>
-	<td></td>
-</tr>
-<tr>
 	<td>            </td>
 	<td>  <strong> 2003</strong></td>
 </tr>
@@ -379,10 +323,6 @@ title: "Eagle's Nest"
 <tr>
 	<td>Matthew Fong</td>
 	<td>1-Apr-03</td>
-</tr>
-<tr>
-	<td></td>
-	<td></td>
 </tr>
 <tr>
 	<td></td>
