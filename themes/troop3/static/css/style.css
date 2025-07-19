@@ -1,0 +1,325 @@
+/* Base Styles */
+:root {
+    --accent-color: #cd2653;
+    --primary-color: #000000;
+    --secondary-color: #6d6d6d;
+    --background-color: #f5efe0;
+    --subtle-background: #dcd7ca;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--primary-color);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    font-size: 1.8rem;
+    line-height: 1.5;
+    text-rendering: optimizeLegibility;
+}
+
+a {
+    color: var(--accent-color);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    line-height: 1.25;
+    margin: 3.5rem 0 2rem;
+    font-weight: 700;
+}
+
+p, ul, ol {
+    margin-bottom: 2rem;
+}
+
+img {
+    height: auto;
+    max-width: 100%;
+}
+
+/* Layout */
+.section-inner {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 120rem;
+    width: calc(100% - 4rem);
+}
+
+/* Header */
+#site-header {
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+    background-image: url('/images/troop3_header.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: left center;
+    min-height: 120px; /* Set a minimum height for the header */
+}
+
+.header-inner {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 2.8rem 0;
+    margin-left: 120px; /* Add space to the left for the header image */
+}
+
+.header-titles {
+    margin: 0 0 0 2.4rem;
+}
+
+.site-title {
+    font-size: 2.4rem;
+    font-weight: 700;
+    line-height: 1;
+    margin: 0;
+}
+
+.site-title a {
+    color: inherit;
+    display: block;
+    text-decoration: none;
+}
+
+.site-description {
+    color: var(--secondary-color);
+    font-size: 1.6rem;
+    margin: 0.4rem 0 0;
+}
+
+/* Navigation */
+.header-navigation-wrapper {
+    align-items: center;
+    display: flex;
+}
+
+.primary-menu {
+    display: flex;
+    font-size: 1.8rem;
+    list-style: none;
+    margin: 0;
+}
+
+.primary-menu li {
+    position: relative;
+}
+
+.primary-menu a {
+    color: var(--accent-color);
+    display: block;
+    padding: 2rem;
+    text-decoration: none;
+}
+
+.primary-menu a:hover {
+    color: var(--accent-color);
+    text-decoration: underline;
+}
+
+/* Main Content */
+#site-content {
+    padding: 4rem 0;
+}
+
+.entry-header {
+    text-align: center;
+    padding: 4rem 0;
+}
+
+.entry-header-inner,
+.archive-header-inner {
+    margin: 0 auto;
+    max-width: 70rem;
+    width: 100%;
+}
+
+.entry-title,
+.archive-title {
+    font-size: 3.6rem;
+    margin: 0;
+}
+
+.post-inner {
+    padding-top: 5rem;
+}
+
+.entry-content {
+    margin: 0 auto;
+    max-width: 70rem;
+    width: 100%;
+}
+
+.entry-content h1,
+.entry-content h2,
+.entry-content h3 {
+    margin: 3rem 0 2rem;
+}
+
+.entry-content a {
+    text-decoration: underline;
+}
+
+.entry-content ul,
+.entry-content ol {
+    margin-left: 3rem;
+}
+
+/* Tables */
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 4rem 0;
+    width: 100%;
+}
+
+th,
+td {
+    border: 1px solid var(--subtle-background);
+    line-height: 1.4;
+    margin: 0;
+    padding: 0.8rem 1.6rem;
+}
+
+th {
+    background-color: var(--subtle-background);
+    font-weight: 600;
+}
+
+/* Footer */
+#site-footer {
+    background-color: #fff;
+    border-top: 1px solid var(--subtle-background);
+    padding: 3rem 0;
+}
+
+.footer-credits {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.footer-copyright {
+    font-weight: 600;
+    margin: 0;
+}
+
+.to-the-top {
+    align-items: center;
+    display: flex;
+    color: var(--accent-color);
+    margin: 2rem 0 0;
+}
+
+.to-the-top-long {
+    display: none;
+}
+
+@media (min-width: 700px) {
+    .to-the-top-long {
+        display: block;
+    }
+    .to-the-top-short {
+        display: none;
+    }
+}
+
+/* Contact Form */
+.contact-form {
+    margin: 3rem 0;
+}
+
+.form-group {
+    margin-bottom: 2rem;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 1rem;
+    border: 1px solid var(--subtle-background);
+    font-family: inherit;
+    font-size: 1.6rem;
+}
+
+.form-group textarea {
+    min-height: 15rem;
+}
+
+button.button {
+    background-color: var(--accent-color);
+    border: none;
+    border-radius: 0.3rem;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1.6rem;
+    font-weight: 600;
+    padding: 1.5rem 3rem;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: background-color 0.3s;
+}
+
+button.button:hover {
+    background-color: #b21e47;
+}
+
+/* Responsive Styles */
+@media (max-width: 700px) {
+    #site-header {
+        background-position: center top;
+        min-height: 80px; /* Smaller height for mobile */
+    }
+    
+    .header-inner {
+        flex-direction: column;
+        padding: 2rem 0;
+        margin-left: 0; /* Reset the margin on mobile */
+        margin-top: 80px; /* Add space above the content to account for the image */
+    }
+    
+    .header-titles {
+        margin: 0;
+        text-align: center;
+    }
+    
+    .header-navigation-wrapper {
+        margin-top: 2rem;
+    }
+    
+    .primary-menu {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .primary-menu a {
+        padding: 1rem 1.5rem;
+    }
+    
+    .footer-credits {
+        flex-direction: column;
+    }
+}

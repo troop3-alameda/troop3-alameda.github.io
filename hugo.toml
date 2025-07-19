@@ -1,0 +1,41 @@
+baseURL = 'https://bsa-troop3.org/'
+languageCode = 'en-us'
+title = 'Boy Scouts of America, Troop 3'
+theme = 'troop3'
+
+[params]
+  description = "Member of the Golden Gate Area Council of BSA"
+  mainSections = ["posts"]
+  favicon = "images/favicon.png"
+
+[menu]
+  [[menu.main]]
+    identifier = "join"
+    name = "Join!"
+    url = "/join/"
+    weight = 1
+  [[menu.main]]
+    identifier = "for-scouts"
+    name = "For Scouts"
+    url = "/for-scouts/"
+    weight = 2
+  [[menu.main]]
+    identifier = "for-parents"
+    name = "For Parents"
+    url = "/for-parents/"
+    weight = 3
+  [[menu.main]]
+    identifier = "eagles-nest"
+    name = "Eagle's Nest"
+    url = "/eagles-nest/"
+    weight = 4
+  [[menu.main]]
+    identifier = "discount-card"
+    name = "Discount Card"
+    url = "/discount-card/"
+    weight = 5
+  [[menu.main]]
+    identifier = "contact-us"
+    name = "Contact Us"
+    url = "/contact-us/"
+    weight = 6

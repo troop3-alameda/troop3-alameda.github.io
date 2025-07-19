@@ -1,0 +1,12 @@
+name = "Troop3"
+license = "MIT"
+licenselink = "https://github.com/yourusername/hugo-troop3-theme/blob/master/LICENSE"
+description = "A theme for BSA Troop 3 based on the original WordPress site"
+homepage = "https://bsa-troop3.org/"
+tags = ["responsive", "scouts", "clean"]
+features = ["responsive"]
+min_version = "0.41.0"
+
+[author]
+  name = "Your Name"
+  homepage = "Your Website"

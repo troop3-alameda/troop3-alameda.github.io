@@ -1,0 +1,21 @@
+<!-- Site Header with Troop 3 Logo/Header Image -->
+<header id="site-header">
+    <div class="header-inner">
+        <div class="header-titles">
+            <h1 class="site-title"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+            <p class="site-description">{{ .Site.Params.description }}</p>
+        </div>
+
+        <div class="header-navigation-wrapper">
+            <nav class="primary-menu-wrapper">
+                <ul class="primary-menu">
+                    {{ range .Site.Menus.main }}
+                    <li class="menu-item">
+                        <a href="{{ .URL }}">{{ .Name }}</a>
+                    </li>
+                    {{ end }}
+                </ul>
+            </nav>
+        </div>
+    </div>
+</header>

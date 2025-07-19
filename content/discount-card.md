@@ -1,0 +1,9 @@
+---
+title: "Discount Card"
+---
+
+Troop 3 has an annual fundraiser to help sustain the troop and support local businesses. We offer a local discount card that provides discounts at local merchants restaurants and retail stores. This fundraiser helps keep our program fees low for all of the Scouts; we appreciate your support of Troop 3 and local businesses.
+
+![Discount Card](https://bsa-troop3.org/wp-content/uploads/2024/12/IMG_0449-286x300.png)
+
+The cost of each card is $20. To order, please visit our [online store](https://alameda-bsa-troop-3.square.site).
