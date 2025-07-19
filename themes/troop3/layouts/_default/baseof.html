@@ -6,9 +6,12 @@
     <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
     <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
-    {{ if .Site.Params.favicon }}
-    <link rel="icon" href="{{ .Site.Params.favicon | relURL }}" type="image/png">
-    {{ end }}
+    
+    <!-- Favicons -->
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon/favicon-32x32.png" sizes="32x32" type="image/png">
+    <link rel="icon" href="/favicon/favicon-192x192.png" sizes="192x192" type="image/png">
+    <link rel="apple-touch-icon" href="/favicon/apple-touch-icon.png" sizes="180x180">
 </head>
 <body>
     {{ partial "header.html" . }}

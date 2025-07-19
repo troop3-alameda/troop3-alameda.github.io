@@ -64,11 +64,17 @@ img {
     background-color: #fff;
     position: relative;
     z-index: 1;
-    background-image: url('/images/troop3_header.png');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: left center;
     min-height: 120px; /* Set a minimum height for the header */
+    display: flex;
+    align-items: center;
+}
+
+.header-logo {
+    width: 120px;
+    height: auto;
+    margin-left: 10px;
+    display: block;
+    flex-shrink: 0;
 }
 
 .header-inner {
@@ -76,7 +82,8 @@ img {
     display: flex;
     justify-content: space-between;
     padding: 2.8rem 0;
-    margin-left: 120px; /* Add space to the left for the header image */
+    flex-grow: 1;
+    margin-left: 15px; /* Space between logo and text */
 }
 
 .header-titles {
@@ -290,15 +297,20 @@ button.button:hover {
 /* Responsive Styles */
 @media (max-width: 700px) {
     #site-header {
-        background-position: center top;
         min-height: 80px; /* Smaller height for mobile */
+        flex-direction: column;
+        padding: 1rem 0;
+    }
+    
+    .header-logo {
+        width: 80px; /* Smaller logo on mobile */
+        margin: 0 auto 10px; /* Center the logo */
     }
     
     .header-inner {
         flex-direction: column;
-        padding: 2rem 0;
+        padding: 1rem 0;
         margin-left: 0; /* Reset the margin on mobile */
-        margin-top: 80px; /* Add space above the content to account for the image */
     }
     
     .header-titles {
