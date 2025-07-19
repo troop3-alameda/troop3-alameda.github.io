@@ -8,6 +8,10 @@ theme = 'troop3'
   mainSections = ["posts"]
   favicon = "images/favicon.png"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [menu]
   [[menu.main]]
     identifier = "join"
