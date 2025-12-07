@@ -6,7 +6,7 @@ Troop 3 has an annual fundraiser to help sustain the troop and support local bus
 
 <div style="text-align: center;">
 
-![Discount Card](/IMG_0449-286x300.png)
+![Discount Card](/discount-card-2026.jpeg)
 
 </div>
 
