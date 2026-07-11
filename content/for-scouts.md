@@ -9,3 +9,4 @@ This page has resources and information for members of Troop 3. From schedules t
 * [Merit Badges](https://www.scouting.org/skills/merit-badges/)
 * [Rank Advancements](https://www.scouting.org/programs/scouts-bsa/advancement-and-awards/)
 * [Weekend Camping Trip Packing List](/Troop-3-Weekend-Camping-Trip-Packing-List.pdf)
+* [Troop 3 Game's guide](/Troop-3-Digital-Free-Delights.pdf)
